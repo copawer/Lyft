@@ -1,4 +1,4 @@
-/*var map;
+var map;
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: -34.397, lng: 150.644},
@@ -37,12 +37,17 @@ var coorde={};
      
  }
  //country
- var country='[{"nombre": "Perú","img":,+ "flags-iso/flat/16/PE.png",+ "phone_code": 51 }]'
+ var country=[
+ 
+ {
+ "nombre": "Perú",
+  "img":"flags-iso/flat/16/PE.png",
+  "phone_code": 51},
  
  
      
      
-    /* {
+     {
    "nombre": "Australia",
     "img": "flags-iso/flat/16/AU.png",
     "phone_code": 61
@@ -87,5 +92,5 @@ var coorde={};
     "img": "flags-iso/flat/16/GB.png",
     "phone_code": 44
   },
-     ]*/
+     ]
  
