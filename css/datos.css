@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+}
+
+.boton
+{
+    background-color: deeppink;
+     width: 100px;
+     height: 50px;
+     text-align: center;
+     color: white;
+     border-right-width: 0px;
+     border-top-width: 0px;
+     border-left-width: 0px;
+     border-bottom-width: 0px;
+}
+input
+{
+    
+}
